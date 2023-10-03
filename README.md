@@ -1,4 +1,4 @@
-ADESOLA AYOTUNDE ALADEKUGBE
+# ADESOLA AYOTUNDE ALADEKUGBE
 
 Mobile: +44 7833622145    |   Email: adesolaaladekugbe@gmail.com
 
@@ -6,11 +6,11 @@ GitHub: AdesolaAladekugbe (github.com)
 
 Address: 69 Kirkby Street, Lincoln, LN5 7TT
 
-SUMMARY
+# SUMMARY
 
 Adesola Aladekugbe is a dedicated Data Analyst with a strong academic background in Data Science and Applied Analytics. Proficient in Python, R, and SQL, she's skilled in Big Data tools like Apache Spark and Hadoop. Adesola excels in machine learning using Scikit-learn, TensorFlow, and Keras, and she's adept at data visualization with Power BI and Matplotlib. Her statistical analysis capabilities, utilizing Excel, NumPy, and Pandas, are impressive. Eager to apply her analytical prowess, Adesola is poised to drive data-driven decisions in challenging Data Science or Analyst roles, making her an asset to any team.
  
-SKILLS
+## SKILLS
 
 •	Programming Languages: Python, R, MATLAB, SQL
 
@@ -24,7 +24,7 @@ SKILLS
 
 •	Statistical Analysis: Excel, ANOVA, Correlation, Hypothesis testing
 
-EDUCATION
+## EDUCATION
 
 •	MSc Data Science and Applied Analytics – University of Lincoln, UK               Sept 2022 - Sept 2023
 
@@ -32,7 +32,7 @@ EDUCATION
 
 •	BSc Physiology – Afe Babalola University Ado Ekiti                                Sept 2014 – Oct 2018
 
-EXPERIENCE
+## EXPERIENCE
 
 USAID Breakthrough Action - Data Analyst Internship, Jan 2022 – Sept 2022
 
