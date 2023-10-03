@@ -1,5 +1,5 @@
 ADESOLA AYOTUNDE ALADEKUGBE
-Mobile: +44 7833622145 | Email: adesolaaladekugbe@gmail.com
+Mobile: +44 7833622145    |   Email: adesolaaladekugbe@gmail.com
 GitHub: AdesolaAladekugbe (github.com)
 Address: 69 Kirkby Street, Lincoln, LN5 7TT
 SUMMARY
@@ -12,12 +12,10 @@ SKILLS
 •	Data Visualization: Power BI, matplotlib, Seaborn
 •	Data Mining: Weka 
 •	Statistical Analysis: Excel, ANOVA, Correlation, Hypothesis testing
-
 EDUCATION
-•	MSc Data Science and Applied Analytics – University of Lincoln, UK                 Sept 2022 - Sept 2023
-•	MPH Health promotion and Education – University of Ibadan                          Sept 2019 – Nov 2021
-•	BSc Physiology – Afe Babalola University Ado Ekiti                                 Sept 2014 – Oct 2018
-
+•	MSc Data Science and Applied Analytics – University of Lincoln, UK               Sept 2022 - Sept 2023
+•	MPH Health promotion and Education – University of Ibadan                         Sept 2019 – Nov 2021
+•	BSc Physiology – Afe Babalola University Ado Ekiti                                Sept 2014 – Oct 2018
 EXPERIENCE
 USAID Breakthrough Action - Data Analyst Internship, Jan 2022 – Sept 2022
 •	Collected and analysed data regularly to measure achievement against performance indicators.
@@ -39,5 +37,6 @@ First Bank Nigeria PLC - Marketing Associate, Dec 2019 - Oct 2020
 •	Assisted with account opening and loan facilities (FTS, TOD, and PLAS).
 •	Prepared regular sales forecasting reports to inform budget planning.
 •	Collaborated with cross-functional teams to execute successful marketing campaigns.
+
 
 
