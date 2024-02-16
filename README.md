@@ -4,7 +4,7 @@ Mobile: +44 7833622145    |   Email: adesolaaladekugbe@gmail.com
 
 GitHub: AdesolaAladekugbe (github.com)
 
-Address: 69 Kirkby Street, Lincoln, LN5 7TT
+Address: United Kingdom
 
 # SUMMARY
 
