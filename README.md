@@ -12,17 +12,19 @@ Adesola Aladekugbe is a dedicated Data Analyst with a strong academic background
  
 ## SKILLS
 
-•	Programming Languages: Python, R, MATLAB, SQL
-
-•	Big Data Tools: Apache Spark, Hadoop
-
-•	Machine Learning: Regression, Classification, Clustering, Hyperparameter Tuning, Model Evaluation, Natural Language Processing (NLP).
-
-•	Data Visualization: Power BI, matplotlib, Seaborn
-
-•	Data Mining: Weka 
-
-•	Statistical Analysis: Excel, ANOVA, Correlation, Hypothesis testing
+• Programming Languages: Python, R, MATLAB, SQL 
+• Big Data Tools: Apache Spark, Hadoop 
+• Machine Learning: Regression, Classification, Clustering, Hyperparameter Tuning, 
+Model Evaluation, Natural Language Processing (NLP) 
+• Data Visualization: Power BI, matplotlib, Seaborn, Tableau 
+• Data Mining: Weka 
+• Statistical Analysis: Excel, ANOVA, Correlation, Hypothesis testing 
+• Analytics Tools: Google Analytics and Search Ads 360 
+• Marketing Automation Tools: HubSpot, Marketo, Mailchimp 
+• Digital Marketing Platforms: Google Ads, Facebook Ads, LinkedIn 
+• Customer Relationship Management (CRM) Software: Salesforce 
+• Communication Skills: Strong written and verbal communication skills for effective 
+collaboration with internal teams and external partners.
 
 ## EDUCATION
 
@@ -33,8 +35,24 @@ Adesola Aladekugbe is a dedicated Data Analyst with a strong academic background
 •	BSc Physiology – Afe Babalola University Ado Ekiti                                Sept 2014 – Oct 2018
 
 ## EXPERIENCE
+Sublimity, USA (Remote) - Data Analyst –  NOV 2022 – Till Date 
 
-USAID Breakthrough Action - Data Analyst Internship, Jan 2022 – Sept 2022
+• Analyzed the results of a comprehensive global survey using Python and SQL, focusing 
+on complex datasets to derive actionable insights.
+
+• Employed advanced data manipulation and visualization techniques to interpret survey 
+data effectively, aligning with the firm's global engagement strategy.
+
+• Utilized machine learning techniques such as Regression, Classification, and Clustering 
+for predictive modeling and optimization of decision-making processes.
+
+• Developed compelling visualizations using Power BI, Matplotlib, and Seaborn, 
+facilitating clear communication of data trends and patterns to stakeholders.
+
+• -Collaborated with colleagues to interpret the impact of insights and provide 
+recommendations for shaping the global engagement strategy of the organization.
+
+USAID Breakthrough Action - Data Analyst, Jan 2022 – Sept 2022
 
 •	Collected and analysed data regularly to measure achievement against performance indicators.
 
@@ -58,7 +76,7 @@ First Bank Nigeria PLC - Data Analyst, Oct 2020 – Dec 2021
 
 •	Improved store profitability by re-merchandising inventory with attractive window and floor displays.
 
-First Bank Nigeria PLC - Marketing Associate, Dec 2019 - Oct 2020
+First Bank Nigeria PLC - Marketing/ business  Associate, Dec 2019 - Oct 2020
 
 •	Tracked market trends and monitored competition to identify new revenue opportunities.
 
