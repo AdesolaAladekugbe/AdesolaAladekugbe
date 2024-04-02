@@ -13,16 +13,26 @@ Adesola Aladekugbe is a dedicated Data Analyst with a strong academic background
 ## SKILLS
 
 • Programming Languages: Python, R, MATLAB, SQL 
+
 • Big Data Tools: Apache Spark, Hadoop 
+
 • Machine Learning: Regression, Classification, Clustering, Hyperparameter Tuning, 
 Model Evaluation, Natural Language Processing (NLP) 
+
 • Data Visualization: Power BI, matplotlib, Seaborn, Tableau 
+
 • Data Mining: Weka 
+
 • Statistical Analysis: Excel, ANOVA, Correlation, Hypothesis testing 
+
 • Analytics Tools: Google Analytics and Search Ads 360 
+
 • Marketing Automation Tools: HubSpot, Marketo, Mailchimp 
+
 • Digital Marketing Platforms: Google Ads, Facebook Ads, LinkedIn 
+
 • Customer Relationship Management (CRM) Software: Salesforce 
+
 • Communication Skills: Strong written and verbal communication skills for effective 
 collaboration with internal teams and external partners.
 
